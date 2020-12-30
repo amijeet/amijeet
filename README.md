@@ -1,8 +1,8 @@
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on fun DevOps projects
 - 💬 Ask me anything!
-- 📫 How to reach me: :e-mail: avznav@gmail.com
-- ⚡ Fun fact: The previous version of this README broke, hence this version :sweat_smile:
+- 📫 How to reach me: :e-mail: amijeetthakur@gmail.com
+- ⚡ Fun fact: I am just trying to look friendly by putting this README up :sweat_smile:
 - :grapes: My blog: [amijeet.github.io](https://amijeet.github.io/)
 <!--
 **amijeet/amijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
