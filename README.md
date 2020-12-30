@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+### I’m currently working on Web Development
+### I’m currently learning React
+### I’m always willing to collaborate
+### How to reach me ? amijeetthakur@gmail.com
 <!--
 **amijeet/amijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
